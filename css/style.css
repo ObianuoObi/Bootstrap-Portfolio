@@ -79,8 +79,7 @@ section h2 {
 }
 
 .dropdown-menu {
-    background: url("../images/transparency.png");
-    background-color: transparent !important;
+    background-color: white !important;
     background-size: cover;
 }
 
