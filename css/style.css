@@ -116,3 +116,11 @@ section h2 {
     color: white;
     text-align: center;
 }
+
+.cardContainer {
+    margin-top: 20px;
+}
+
+.card {
+    margin: 0 auto;
+}
